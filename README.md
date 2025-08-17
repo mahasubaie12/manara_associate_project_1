@@ -17,7 +17,7 @@
 > - ASG: Ensures instances scale based on demand.  
 > - Amazon RDS (Optional): Backend database with Multi-AZ.  
 > - IAM: Role-based access to instances.  
-> - CloudWatch & SNS: Monitor performance and send alerts.  
+> - CloudWatch & SNS: Monitor performance and send alerts. 
 >  
 > **Learning Outcomes:**  
 > - Setting up secure and scalable EC2-based web applications  
